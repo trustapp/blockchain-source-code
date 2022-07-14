@@ -1,0 +1,3 @@
+[submodule "chainweb"]
+	path = chainweb
+	url = https://github.com/ccali66/chainweb.git
